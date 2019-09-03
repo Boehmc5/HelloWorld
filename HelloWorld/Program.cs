@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            //Asks user to press any key to continue... then writes "Hello World".
+            //Shows the phrase "Hello World" then tells the user to press any key to continue.
             Console.WriteLine("Press any key to continue....");
             Console.WriteLine("Hello World");
             Console.ReadKey(true);
