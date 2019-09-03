@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+Christopher Boehm
+9/3/2019
+ISM 4300
+Deliverable 1 / Hello World
+*/
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
